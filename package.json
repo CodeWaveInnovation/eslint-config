@@ -1,6 +1,6 @@
 {
   "name": "@cwinnovation/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of internal eslint configurations.",
   "private": false,
   "publishConfig": {
@@ -26,6 +26,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "avilesxd <https://github.com/avilesxd>",
+  "author": "avilesxd <nacho72001@gmail.com>",
   "license": "MIT"
 }
