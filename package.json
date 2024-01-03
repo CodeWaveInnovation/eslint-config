@@ -1,5 +1,5 @@
 {
-  "name": "@cwi/eslint-config",
+  "name": "@cwinnovation/eslint-config",
   "version": "1.0.0",
   "description": "Collection of internal eslint configurations.",
   "private": false,
