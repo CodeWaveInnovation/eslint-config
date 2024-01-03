@@ -2,6 +2,11 @@
   "name": "@cwi/eslint-config",
   "version": "1.0.0",
   "description": "Collection of internal eslint configurations.",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "files": [
     "library.js",
     "next.js",
